@@ -1,0 +1,49 @@
+#background
+{
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size:50% 100%;
+}
+
+#font1
+{
+	font-family: 'Zhi Mang Xing', cursive; line-height: 35px; letter-spacing: 5px;
+	font-size: 30px;
+}
+
+
+h1
+{
+    font-family: 'Zhi Mang Xing', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+    font-size: 40px; letter-spacing: 5px;
+}
+
+#font2
+{
+	font-family: 'Zhi Mang Xing', cursive;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px; 
+}
+
+#font4
+{
+	font-family: 'Sigmar One', cursive;
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 30px;
+}
+
+#font5
+{
+	font-family: 'Kelly Slab', cursive;
+	font-size: 30px;
+}
+
+#font6
+{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+
+
